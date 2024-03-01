@@ -1,5 +1,4 @@
-var x = 0;
-var y = 1;
+
 var hamburger = document.querySelector("#hamburger");
 var menu = document.querySelector(".menu");
 var doted = document.querySelector("#dote");
